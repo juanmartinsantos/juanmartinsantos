@@ -1,7 +1,7 @@
-- 👋  Hi, I’m Juan Martín (@juanmartinsantos)
-- 🌱  I’m currently a student in the USAL PhD program
-- 👀  I’m interested in AI topics 
-- 💞️  I’m looking to collaborate on ML topics 
+- 👋  Hi, I am Juan Martín (@juanmartinsantos)
+- 🌱  I am currently a student in the PhD program at the University of Salamanca
+- 👀  I am interested in AI topics 
+- 💞️  I am looking to collaborate on ML topics 
 - 📫  How to reach me juanmartin@usal.es
 
 <!---
