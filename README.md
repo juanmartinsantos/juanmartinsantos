@@ -1,4 +1,3 @@
-[![LinkedIn][linkedin-shield]][http://linkedin.com/in/juanmmartin]
 
 - 👋  Hi, I am Juan Martín (@juanmartinsantos)
 - 🌱  I am currently a student in the PhD program at the University of Salamanca
